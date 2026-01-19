@@ -12,9 +12,7 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3.11-blue" alt="Python">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
-  </a>
+ 
 </p>
 
 <p align="center">
